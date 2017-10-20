@@ -1,6 +1,6 @@
 {
-  "name": "Ionic Conference",
-  "short_name": "Ionic Conf",
+  "name": "Modern Conference",
+  "short_name": "Modern Conf",
   "start_url": "index.html",
   "display": "standalone",
   "icons": [{
